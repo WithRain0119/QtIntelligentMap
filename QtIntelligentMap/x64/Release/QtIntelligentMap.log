@@ -1,0 +1,327 @@
+﻿   Qt/MSBuild: 3.4.1.0
+  Reading Qt configuration (F:/Qt/6.8.3/msvc2022_64/bin/qmake)
+   Qt: 6.8.3
+  uic QtIntelligentMap.ui
+  rcc QtIntelligentMap.qrc
+  moc QtIntelligentMap.h
+   RCC: Warning: No resources in 'G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\QtIntelligentMap.qrc'.
+  squeue.cpp
+  BFSTraverse.cpp
+  CreateGraph.cpp
+  DFSTraverse.cpp
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0x33 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“CreateGraph.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0x34 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“CreateGraph.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0x35 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“CreateGraph.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0x36 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“CreateGraph.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0x37 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“CreateGraph.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0x39 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“CreateGraph.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0x3a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“CreateGraph.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0x3d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“CreateGraph.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0x3f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“CreateGraph.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0x40 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“CreateGraph.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0x41 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“CreateGraph.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0x42 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“CreateGraph.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0x45 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“CreateGraph.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0x46 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“CreateGraph.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0x4d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“CreateGraph.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0x4e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“CreateGraph.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0x54 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“CreateGraph.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0x55 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“CreateGraph.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0x58 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“CreateGraph.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0x59 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“CreateGraph.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0x5b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“CreateGraph.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0x5c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“CreateGraph.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0x5d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“CreateGraph.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0x99 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“CreateGraph.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0x9b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“CreateGraph.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0xa9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“CreateGraph.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0xaa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“CreateGraph.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0xab 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“CreateGraph.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0xd4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“CreateGraph.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0xd6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“CreateGraph.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0xe3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“CreateGraph.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0xe4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“CreateGraph.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0xe5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“CreateGraph.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x6f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x70 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x75 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x77 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x78 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x79 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x7a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x7b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x7d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x7f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x80 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x84 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x86 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0xb3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0xb4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0xb5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0xb7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0xb9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0xba 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0xbe 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0xc1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0xc4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0xc6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0xc7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0xc8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0xcd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0xce 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0xd1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0xd2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0xd3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0xd4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0xd6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0xd9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0xdb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0xdc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0xe0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x11b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x11d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x11e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x11f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x121 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x125 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x129 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x12b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x12c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x12f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x131 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x132 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x135 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x138 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x13b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x13f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x141 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x142 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x146 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x149 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x14a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x14b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x16b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x16c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x16e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x190 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x192 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x194 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x195 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x311 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x313 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x316 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x317 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x318 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x319 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x31b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x31d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x31f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x320 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x322 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x323 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x325 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x326 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x32c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x32e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x332 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x334 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x483 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x485 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x48e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x490 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x492 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x493 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x494 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x496 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x497 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x49a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x49b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x49d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x49e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x4ec 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x4ee 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x4f0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x4f1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x4f4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x4f6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x4f7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x4fa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x4fb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x4ff 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(1,1): warning C4828: 文件包含在偏移 0x503 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  FindShortestPath.cpp
+  QtIntelligentMap.cpp
+  main.cpp
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0x33 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“QtIntelligentMap.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0x34 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“QtIntelligentMap.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0x35 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“QtIntelligentMap.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0x36 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“QtIntelligentMap.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0x37 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“QtIntelligentMap.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0x39 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“QtIntelligentMap.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0x3a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“QtIntelligentMap.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0x3d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“QtIntelligentMap.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0x3f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“QtIntelligentMap.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0x40 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“QtIntelligentMap.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0x41 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“QtIntelligentMap.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0x42 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“QtIntelligentMap.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0x45 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“QtIntelligentMap.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0x46 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“QtIntelligentMap.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0x4d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“QtIntelligentMap.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0x4e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“QtIntelligentMap.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0x54 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“QtIntelligentMap.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0x55 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“QtIntelligentMap.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0x58 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“QtIntelligentMap.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0x59 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“QtIntelligentMap.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0x5b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“QtIntelligentMap.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0x5c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“QtIntelligentMap.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0x5d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“QtIntelligentMap.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0x99 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“QtIntelligentMap.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0x9b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“QtIntelligentMap.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0xa9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“QtIntelligentMap.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0xaa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“QtIntelligentMap.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0xab 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“QtIntelligentMap.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0xd4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“QtIntelligentMap.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0xd6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“QtIntelligentMap.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0xe3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“QtIntelligentMap.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0xe4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“QtIntelligentMap.cpp”)
+  
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\CreateGraph.h(1,1): warning C4828: 文件包含在偏移 0xe5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“QtIntelligentMap.cpp”)
+  
+  qrc_QtIntelligentMap.cpp
+  moc_QtIntelligentMap.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\DFSTraverse.cpp(61): warning C4715: “DFSTraverse”: 不是所有的控件路径都返回值
+  All 453 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  QtIntelligentMap.vcxproj -> G:\桌面\Cc\数据结构课程设计\QtIntelligentMap\x64\Release\QtIntelligentMap.exe
